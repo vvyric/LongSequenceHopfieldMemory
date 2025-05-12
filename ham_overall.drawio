@@ -1,0 +1,63 @@
+<mxfile host="app.diagrams.net" modified="2025-05-12T20:53:32.350Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" etag="Jp-27PC2LPuCcF5bGXEG" version="24.4.0" type="github">
+  <diagram name="第 1 页" id="iESP227TB-26PCWopNRy">
+    <mxGraphModel dx="594" dy="1635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="PAiWoVVPBK-8SuSjQU_N-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;fontStyle=1" edge="1" parent="1" source="du2vrE_OmllNjgMDtvtN-1" target="du2vrE_OmllNjgMDtvtN-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PAiWoVVPBK-8SuSjQU_N-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;fontStyle=1" edge="1" parent="1" source="du2vrE_OmllNjgMDtvtN-1" target="du2vrE_OmllNjgMDtvtN-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="80" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="du2vrE_OmllNjgMDtvtN-1" value="Skin" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="30" y="90" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PAiWoVVPBK-8SuSjQU_N-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;fontStyle=1" edge="1" parent="1" source="du2vrE_OmllNjgMDtvtN-2" target="du2vrE_OmllNjgMDtvtN-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="du2vrE_OmllNjgMDtvtN-2" value="Izhikevich Encoder" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="220" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PAiWoVVPBK-8SuSjQU_N-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;fontStyle=1" edge="1" parent="1" source="du2vrE_OmllNjgMDtvtN-3" target="PAiWoVVPBK-8SuSjQU_N-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="du2vrE_OmllNjgMDtvtN-3" value="Hetro-associative Memory" style="whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=3;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="340" y="210" width="210" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="PAiWoVVPBK-8SuSjQU_N-3" value="Force signal" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="140" y="80" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PAiWoVVPBK-8SuSjQU_N-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;fontStyle=1" edge="1" parent="1" source="PAiWoVVPBK-8SuSjQU_N-7" target="PAiWoVVPBK-8SuSjQU_N-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PAiWoVVPBK-8SuSjQU_N-7" value="Joint states" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="30" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PAiWoVVPBK-8SuSjQU_N-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=3;fontStyle=1" edge="1" parent="1" source="PAiWoVVPBK-8SuSjQU_N-8" target="du2vrE_OmllNjgMDtvtN-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PAiWoVVPBK-8SuSjQU_N-8" value="Population place coding" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="220" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PAiWoVVPBK-8SuSjQU_N-15" value="Robot Controller" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="770" y="285" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PAiWoVVPBK-8SuSjQU_N-18" value="&lt;span style=&quot;font-size: 11px; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;Rotation matrices&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="100" y="270" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PAiWoVVPBK-8SuSjQU_N-20" value="&lt;span style=&quot;font-size: 11px; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;Spike trains&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="380" y="75" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PAiWoVVPBK-8SuSjQU_N-21" value="&lt;span style=&quot;font-size: 11px; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;Planned Action Sequences&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="585" y="250" width="145" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PAiWoVVPBK-8SuSjQU_N-22" value="&lt;span style=&quot;font-size: 11px; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;Binary Joint States&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="350" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
